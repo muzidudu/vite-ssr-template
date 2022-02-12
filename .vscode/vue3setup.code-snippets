@@ -1,0 +1,7 @@
+{
+  "Vue 3 Setup Init": {
+    "prefix": ["", "vue3setup"],
+    "body": ["<template>\n\t<div></div>\n</template>\n\n<script setup lang=\"ts\"></script>\n\n<style lang=\"scss\"></style>\n"],
+    "description": "Vue 3 Setup Template"
+  }
+}
